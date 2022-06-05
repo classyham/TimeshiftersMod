@@ -5,11 +5,17 @@ A basic framework for modding the Unity based game Timeshifters. This setup requ
 ## Usage
 
 • Clone the repo
+
 • Add reference to the games Assembly-CSharp.dll
+
 • Add reference to any UnityEngine dlls that you need for your feature
+
 • Write your code (you can add as many components as you need to the Entry.o)
+
 • Build solution.
+
 • Inject your DLL with whatever Mono injector you prefer.
+
 • Enjoy your mods.
 
 ## ONLINE
